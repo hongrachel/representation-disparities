@@ -2,7 +2,7 @@
 
 ## Final Manuscript
 
-Find the published paper here: https://github.com/hongrachel/representation-disparities/blob/main/final-manuscript.pdf
+[temporary] Find the published paper here: https://github.com/hongrachel/representation-disparities/blob/main/final-manuscript.pdf
 
 Please cite our work as follows:
 
