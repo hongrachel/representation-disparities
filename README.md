@@ -1,4 +1,4 @@
-# Is more always better? Evaluation of targeted dataset collection on racial bias in face recognition
+# Evaluation of targeted dataset collection on racial bias in face recognition
 
 ## Final Manuscript
 
