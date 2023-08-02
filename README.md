@@ -1,4 +1,4 @@
-# Evaluation of targeted dataset collection on racial bias in face recognition
+# Evaluation of targeted dataset collection on racial equity in face recognition
 
 ## Final Manuscript
 
