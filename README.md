@@ -1,5 +1,22 @@
 # Is more always better? Evaluation of targeted dataset collection on racial bias in face recognition
 
+## Final Manuscript
+
+Find the published paper here: https://github.com/hongrachel/representation-disparities/blob/main/final-manuscript.pdf
+
+Please cite our work as follows:
+
+```
+@inproceedings{hong2023evaluation,
+  title={Evaluation of targeted dataset collection on racial equity in face recognition},
+  author={Hong, Rachel and Kohno, Tadayoshi and Morgenstern, Jamie},
+  publisher = {ACM},
+  address = {New York, NY, USA},
+  booktitle={Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society},
+  year={2023}
+}
+```
+
 ## Setup
 
 Run `pip install --upgrade pip`.
